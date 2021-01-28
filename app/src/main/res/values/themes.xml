@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BmiCalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+    </style>
+        <!-- Status bar color. -->
+    <style name="Theme.BmiCalculator.NoActionBar">
+        <!--  <item name="windowNoTitle">false</item>-->
+    </style>
+      <style name="Theme.BmiCalculator..AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.BmiCalculator..PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+        <!-- Customize your theme here. -->
+
+</resources>
