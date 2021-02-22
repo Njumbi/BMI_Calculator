@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BmiCalculator</string>
+    <string name="cm">cm</string>
+    <string name="weight">weight</string>
+    <string name="calculate">calculate</string>
+    <string name="kg">kg</string>
+    <string name="goal_weight">Goal weight</string>
+    <string name="age">age</string>
+    <string name="weight_diary">Weight Diary</string>
+    <string name="male">male</string>
+    <string name="todo">TODO</string>
+    <string name="male_description">male description</string>
 </resources>

@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
         }, 1000)
 
     }
+
+    fun skip(view: View) {
+        startActivity(Intent(this, BmiCalculatorActivity::class.java))
+    }
 }
